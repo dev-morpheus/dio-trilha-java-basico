@@ -1,11 +1,12 @@
 # Desafio POO
 
 ### Diagrama UML (Mermaid)
-'''mermaid
+***mermaid
 classDiagram
+
     class iPhone{
     }
-
+    
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
@@ -27,4 +28,4 @@ classDiagram
         -adicionarNovaAba()
         -atualizarPagina()
     }
-'''
+***
